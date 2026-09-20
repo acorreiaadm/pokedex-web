@@ -35,4 +35,4 @@ Diferente de uma simples implementação visual, este projeto passou por um cicl
 ---
 
 ## 👩‍💻 Autoria
-Desenvolvido por **Adriele Correia** no âmbito de projetos acadêmicos e práticos de desenvolvimento de software[cite: 4].
+Desenvolvido por Adriele Correia e equipe.
